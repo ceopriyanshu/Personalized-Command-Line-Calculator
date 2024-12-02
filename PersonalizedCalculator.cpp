@@ -4,7 +4,6 @@
 #include <string>
 using namespace std;
 
-// Define a structure for history
 struct History {
     string expression;
     double result;
